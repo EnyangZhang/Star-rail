@@ -20,7 +20,7 @@ StarRail Gacha Tracker is a Python-based program designed to simulate and record
    ```
 4. Follow the on-screen prompts for operations.
 
-** OR **
+**OR**
 
 Open the starRailGacha.exe file in the dist folder.
 
