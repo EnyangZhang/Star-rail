@@ -20,6 +20,10 @@ StarRail Gacha Tracker is a Python-based program designed to simulate and record
    ```
 4. Follow the on-screen prompts for operations.
 
+** OR **
+
+Open the starRailGacha.exe file in the dist folder.
+
 ### Input Guide
 
 - Upon starting, select the type of gacha pool you wish to track.
